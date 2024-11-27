@@ -1,0 +1,14 @@
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\bin\Debug\net8.0\Kata1.exe
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\bin\Debug\net8.0\Kata1.deps.json
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\bin\Debug\net8.0\Kata1.runtimeconfig.json
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\bin\Debug\net8.0\Kata1.dll
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\bin\Debug\net8.0\Kata1.pdb
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.AssemblyInfoInputs.cache
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.AssemblyInfo.cs
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.dll
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\refint\Kata1.dll
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.pdb
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\Kata1.genruntimeconfig.cache
+C:\Users\Mathias\Documents\GitHub\OrangeBelt\OrangeBelt\OrangeBelt\obj\Debug\net8.0\ref\Kata1.dll
